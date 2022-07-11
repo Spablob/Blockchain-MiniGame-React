@@ -30,4 +30,5 @@ cd Blockchain-MiniGame-React
 yarn deploy
 ```
 
-> Blockchain Rock, Paper, Scissors Game. Front-end bootstrapped with scaffold-eth. Reach 100% on the progress bar to win - have fun!
+> Blockchain Rock, Paper, Scissors Game. Front-end bootstrapped with scaffold-eth. 
+> Reach 100% on the progress bar to win - have fun!
